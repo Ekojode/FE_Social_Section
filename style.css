@@ -1,0 +1,10 @@
+html {
+    --very-dark-magenta: hsl(300, 43%, 22%);
+    --soft-pink: hsl(333, 80%, 67%);
+    --dark-greyish-magenta: hsl(303, 10%, 53%);
+    --light-greyish-magenta: hsl(300, 24%, 96%);
+}
+
+body {
+    font-family: 'League Spartan', sans-serif;
+}
